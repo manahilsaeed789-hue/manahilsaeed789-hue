@@ -43,8 +43,8 @@ Computer Science student passionate about building full-stack web applications a
 
 ### 📫 Get in Touch
 
-- 💼 [ResumeIQ Live App](https://career-enhancer-suite.lovable.app)
 - 👤 [GitHub](https://github.com/manahilsaeed789-hue)
+- 💼 [LinkedIn](https://www.linkedin.com/in/manahil-saeed-7708a13bb)
 
 ---
 
